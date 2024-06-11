@@ -58,20 +58,24 @@ We use TensorBoard to visualize the training process. After training, you can vi
 %load_ext tensorboard
 %tensorboard --logdir=runs
 ```
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/5df1fa8f-7a77-4ad0-95b9-50dfe94af8e1)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/a3e7727e-7925-472d-95f5-9e4ef56bdf41)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/2d2cfc9a-8a59-471d-adc8-cefafc18c87c)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/5e923865-90c7-4ed7-b4bf-2baeba70e29d)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/21408e45-0238-41ad-a7b9-267c1febe9e7)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/2bca182b-b7be-436e-aa62-cb22fd5d1719)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/4e9f82af-0fb2-4a07-bae8-3df09baf63f5)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/cdaf5c99-ef30-4e53-a246-f20c0354b917)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/e5eac06a-df4f-4a61-af23-d37e2683a615)
 
-## Prediction
 
-Once the model is trained, you can use it to make predictions on aerial videos. Use the following code snippet to run predictions:
-
-```python
-# Prediction code here
-```
 
 ## Results
 
 The trained model effectively detects and tracks objects from aerial footage. Here are some examples of the model's performance:
 
 ![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/5e0ff7e8-8857-4168-ad6d-50418f3d2fdd)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/fb512c53-b1aa-490a-a3fa-c1b2d2928e7e)
 
 
 ## Contributing
