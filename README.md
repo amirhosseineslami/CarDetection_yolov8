@@ -3,7 +3,9 @@
 ## Project Overview
 
 This project focuses on implementing and analyzing drone-based object detection and tracking using the Visdrone dataset. The primary goal is to train a model capable of detecting various objects from aerial images and videos, leveraging the Ultralytics framework.
+
 ![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/4e73495f-33ab-4737-ac54-3b6b0b270da2)
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Dataset](#dataset)
@@ -69,7 +71,8 @@ Once the model is trained, you can use it to make predictions on aerial videos. 
 
 The trained model effectively detects and tracks objects from aerial footage. Here are some examples of the model's performance:
 
-![Prediction Example](path/to/your/prediction_image.png)
+![image](https://github.com/amirhosseineslami/CarDetecting_Yolov8/assets/95607919/5e0ff7e8-8857-4168-ad6d-50418f3d2fdd)
+
 
 ## Contributing
 
